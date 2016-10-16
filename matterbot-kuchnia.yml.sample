@@ -1,0 +1,9 @@
+kuchnia:
+    url: "http://www.barexpres.pl"
+    mm_icon_url: http://i.imgur.com/vDzzAvy.png
+    mm_username: Kuchnia Domowa
+mattermost:
+  basic_auth: # (Optional)
+    username: some_user
+    password: some_password
+  webhook_url: https://mattermost.host/hooks/abc
